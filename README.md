@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/logo.svg" width="160"/></p>
+
+<img width="125" height="125" alt="AF44D3C8-063D-404C-8FE7-0F357754EF9D" src="https://github.com/user-attachments/assets/063b6bc8-1e68-444f-877c-d689509a5152" />
 
 # Arctic Blast (ARCBLAST)
 
